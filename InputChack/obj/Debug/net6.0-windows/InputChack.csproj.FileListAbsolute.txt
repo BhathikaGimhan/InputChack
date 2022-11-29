@@ -1,0 +1,17 @@
+F:\C# Projects\InputChack\InputChack\bin\Debug\net6.0-windows\InputChack.exe
+F:\C# Projects\InputChack\InputChack\bin\Debug\net6.0-windows\InputChack.deps.json
+F:\C# Projects\InputChack\InputChack\bin\Debug\net6.0-windows\InputChack.runtimeconfig.json
+F:\C# Projects\InputChack\InputChack\bin\Debug\net6.0-windows\InputChack.dll
+F:\C# Projects\InputChack\InputChack\bin\Debug\net6.0-windows\InputChack.pdb
+F:\C# Projects\InputChack\InputChack\obj\Debug\net6.0-windows\InputChack.csproj.AssemblyReference.cache
+F:\C# Projects\InputChack\InputChack\obj\Debug\net6.0-windows\InputChack.Form1.resources
+F:\C# Projects\InputChack\InputChack\obj\Debug\net6.0-windows\InputChack.csproj.GenerateResource.cache
+F:\C# Projects\InputChack\InputChack\obj\Debug\net6.0-windows\InputChack.GeneratedMSBuildEditorConfig.editorconfig
+F:\C# Projects\InputChack\InputChack\obj\Debug\net6.0-windows\InputChack.AssemblyInfoInputs.cache
+F:\C# Projects\InputChack\InputChack\obj\Debug\net6.0-windows\InputChack.AssemblyInfo.cs
+F:\C# Projects\InputChack\InputChack\obj\Debug\net6.0-windows\InputChack.csproj.CoreCompileInputs.cache
+F:\C# Projects\InputChack\InputChack\obj\Debug\net6.0-windows\InputChack.dll
+F:\C# Projects\InputChack\InputChack\obj\Debug\net6.0-windows\refint\InputChack.dll
+F:\C# Projects\InputChack\InputChack\obj\Debug\net6.0-windows\InputChack.pdb
+F:\C# Projects\InputChack\InputChack\obj\Debug\net6.0-windows\InputChack.genruntimeconfig.cache
+F:\C# Projects\InputChack\InputChack\obj\Debug\net6.0-windows\ref\InputChack.dll
